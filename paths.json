@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/Danialkafeel_esaas-zs-demo/:/",
+    "/content/Danialkafeel_esaas-zs-demo/configuration:/.helix/config.json"
   ]
 }
