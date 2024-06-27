@@ -1,5 +1,5 @@
 mountpoints:
-  /: 
+  /:
     url: "https://author-p135502-e1347863.adobeaemcloud.com/bin/franklin.delivery/Danialkafeel/esaas-zs-demo/main"
     type: "markup"
     suffix: ".html"
